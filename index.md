@@ -4,11 +4,11 @@ And today, I've put up a website to serve as a hub for all of Nick Shabazzdom.
 
 If you haven't yet, you should absolutely check out my [Channel on YouTube](http://youtube.com/nickshabazz), and make sure to check out [my Instagram page](https://www.instagram.com/nickshabazz/) where I post regularly, and you'll get sneak previews of what's being tested, carried, and reviewed now, along with the occasional live stream.  Also, check out [my Patreon page](https://www.patreon.com/nickshabazz), where I give early previews of reviews and sell reviewed gear, and where you can support my reviewing, if you value the time I spend on the channel.
 
-Finally, make sure to check out [Knife Gripes with Nick Shabazz](http://knifenews.com/tag/knife-gripes/), a series with [KnifeNews](http://knifenews.com/) where I complained about issues which I'd like to see fixed in the folding knife world, as a resource that new knifemakers can use to avoid common pitfalls that tend to annoy gear geeks.  And of course, keep an eye out for [my opinion pieces on KnifeNews](http://knifenews.com/tag/nick-shabazz/), dropping from time to time.
+Finally, make sure to check out [Knife Gripes with Nick Shabazz](http://knifenews.com/tag/knife-gripes/), a series with [KnifeNews](http://knifenews.com/) where I complained about issues which I'd like to see fixed in the folding knife world, as a resource that new knifemakers can use to avoid common pitfalls that tend to annoy gear geeks.  And of course, keep an eye out for [my opinion pieces on KnifeNews](http://knifenews.com/tag/nick-shabazz/), which I used to write from time to time.
 
 Thanks so much for stopping by, and for all of the support I get from the community at large!
 
-<font color=RED>One other note: I do **not** have an assistant, and [do not have somebody who "arranges product reviews"](https://www.youtube.com/watch?v=OGqFlvqJH5Q).  If somebody contacts you claiming to represent me and attempts to get free review samples of your products, *it is a scammer*.  Always contact me first, using Instagram or either of the addresses below.</font>
+<font color=RED>One other note: I do **not** have an assistant, and [do not have somebody who "arranges product reviews"](https://www.youtube.com/watch?v=OGqFlvqJH5Q). Always contact me first, using Instagram or either of the addresses below, if you'd like to confirm that I've reached out.</font>
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Don't get me wrong, I derive no joy from negative reviews, and I hope your produ
 
 Finally, if you use the phrase "influencer" or offer me money in exchange for a review, I'm going to groan audibly as I delete your email. Seriously, guys. Just no.
 
-One other note: I do **not** have an assistant, and [do not have somebody who "arranges product reviews"](https://www.youtube.com/watch?v=OGqFlvqJH5Q).  If somebody contacts you claiming to represent me and attempts to get free review samples of your products, *it is a scammer*.  Always contact me first, using Instagram or either of the addresses below.
+One other note: I do **not** have an assistant, and [do not have somebody who "arranges product reviews"](https://www.youtube.com/watch?v=OGqFlvqJH5Q).  Always contact me first, using Instagram or either of the addresses below, to confirm that I really reached out.
 
 ### I make gear and I'd like you to do a 'stealth review' or consult for me!
 
