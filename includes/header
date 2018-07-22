@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name="copyright" content="(c) Copyright 2017 Nick Shabazz" />
+	<meta type="keywords" content"Gear,Reviewing,Knives,Watches,Pens,YouTube,Instagram" />
+    <link href="style.css" rel="stylesheet">
+	<title>Nick Shabazz</title>	
+  
+</head>
+
+<body>
+
+<div id="topbar">
+	<img src="images/logo.png">
+	<h1>Nick Shabazz</h1>
+	<p>Gear Reviewer, YouTuber, and Generalized Jackass-of-all-trades</p>
+	<ul>
+		<li><a href="http://youtube.com/nickshabazz">Nick on YouTube</a></li>
+		<li><a href="https://www.instagram.com/nickshabazz/">Nick on Instagram</a></li>
+		<li><a href="https://www.patreon.com/nickshabazz">Support Nick at Patreon</a></li>
+		<li><a href="http://knifenews.com/tag/knife-gripes/">Knife Gripes with Nick Shabazz</a></li>
+	</ul>
+</div>
+
+
+<div id="content">

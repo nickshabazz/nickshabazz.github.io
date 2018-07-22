@@ -1,0 +1,319 @@
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+/*
+
+#eff3ff
+#c6dbef
+#9ecae1
+#6baed6
+#4292c6
+#2171b5
+#084594
+
+
+*/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: disc;
+	
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	font: 100% "Helvetica Neue", Helvetica, Geneva, sans-serif;
+	background-color:#084594;	
+	background-color: #fff;
+    margin: 0;
+    padding: 0;
+	width:100%;
+	
+}
+
+
+#nick {
+	font-family: "Helvetica Neue", Helvetica, Geneva,sans-serif;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+
+	padding-top:1em;
+	width:100%;
+}
+
+#nick h1 {
+	font-weight: bold;
+	font-size: 1.8em;
+	color: #1c164f;
+	margin-bottom: 0em;
+	padding:0em;
+	margin:0;
+	padding:0;
+	padding-top:0.2em;
+}
+
+#nick p {
+	font-size: 0.85em;
+	padding: 0;
+	color:#606060 ;
+	line-height: 1em;
+	margin-top: 0.75em;
+	padding-bottom:0.5em;
+}
+
+#topbar {
+	font-family: "Helvetica Neue", Helvetica, Geneva,sans-serif;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	margin-bottom:0.75em;
+	padding:1em;
+	padding-top:1em;
+	padding-bottom:1.25em;
+	
+	border-radius: 15px;
+	width:100%;
+}
+
+
+#topbar h1 {
+	font-weight: bold;
+	font-size: 1.8em;
+	color: #1c164f;
+	margin-bottom: 0em;
+	padding:0em;
+	margin:0;
+	padding:0;
+	padding-top:0.4em;
+}
+
+#topbar img {
+	margin-top: 5px;
+	margin-bottom: 0em;
+	border-style: none;
+	height: 6.5em;
+	float: left;
+	margin-right:0.75em;
+	border-color: #ffffff;
+	margin-left:1.25em;
+}
+
+#topbar p {
+	font-size: 1.05em;
+	padding: 0;
+	color:#606060 ;
+	line-height: 1em;
+	margin-top: 0.25em;
+	padding-bottom:0em;
+}
+
+#topbar ul {
+	list-style: none;
+	display: inline-table;
+	margin: 0;	
+	padding: 0;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#topbar ul li {
+	margin-right:1em;
+	float: left;
+	font-size: 0.8em;
+	line-height: 1em;
+	margin-top: -0.4em;
+	margin-bottom:0em;
+	
+}
+
+#content {
+	position: relative;
+	background-color: #fff;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right:2em;
+	padding-left:2em;
+	padding-bottom:1em;
+	padding-top:0em;
+	margin-top:0em;
+	
+}
+
+.clearer {
+	clear: both;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	border-top-style: solid;
+	border-style: solid;
+	border-width: 1px;
+	margin-top: 1em;
+}
+
+img.floatRight {
+	float: right;
+	margin: 0em 1em 1em 1em;
+	width: 30%;
+	padding:0px;
+	
+}
+
+img.center {
+	width: 300px;
+	float: right;
+	margin: 1em;
+}
+
+img.main {
+	width: 85%;
+	float: center;
+	margin: 1em;
+	padding:1em;
+}
+
+img a {
+	border-style: none;
+}
+
+li {
+	line-height: 1.4em;
+	font-size: 0.9em;
+	margin-top: 0.5em;
+}
+
+a:link {
+	color: #565656;
+}
+
+a:visited {
+	color: #565656;
+	text-decoration: none;
+	
+}
+blockquote {
+	margin:0px;
+	padding:0px;
+	margin-left: 1em;
+	font-style: normal;
+	font-weight: normal;
+}
+
+p {
+	font-size: 0.9em;
+	margin-bottom: 1em;
+	line-height: 1.5em;
+}
+
+h2 {
+	font-size: 1.3em;
+	font-style: normal;
+	font-weight: bold;
+	margin: 0;
+	margin-top:0em;
+	padding-top:0px;
+	text-align:left;
+	padding-bottom:0.1em;
+	margin-bottom:0.75em;
+	border-bottom: 1px solid #c6dbef;
+	color:#1c164f;
+}
+
+h3 {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	color:#1c164f;
+	
+}
+
+h4 {
+	font-size: 0.9em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	color:#1c164f;
+	
+}
+
+h5 {
+	margin-top: 1.2em;
+	font-size: 0.9em;
+	margin-bottom: 0.5em;
+}
+
+#foreword {
+	font-style: italic;
+	font-size: 1em;
+	margin-bottom: 1em;
+	padding-left:1.5em;
+	line-height: 1.5em;
+	color: #797979;
+	border-bottom: 1px solid #d5d5d5;
+	
+}
+
+#foreword a {
+	font-style: italic;
+	font-size: 0.9em;
+	margin-bottom: 1em;
+	line-height: 1.5em;
+	color: #797979;
+	text-align: center;
+}
+
+
+#footer {
+	font-size: 0.7em;
+	line-height: 1.2em;
+	text-align: center;
+	margin: 1em 0 1em;
+	color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	width:95%;
+}
+
+small {
+	margin-top:-1em;
+	font-style:bold;
+	margin:0;
+	padding:0;
+	width:85%;
+}
+
+@media (min-width: 850px){
+	#content {
+		width: 680px;
+	}
+	#topbar {
+		width: 720px;
+	}
+	#footer {
+		width: 720px;
+	}
+	img.main {
+		width: 500px;
+	}
+	
+}
